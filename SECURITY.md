@@ -29,3 +29,6 @@ This information will help us triage your report more quickly.
 ## Policy
 
 See [GitHub's Safe Harbor Policy](https://docs.github.com/en/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+
+I would like you to send everything by email for security reasons. No installation of any software so as not to slow down my performance and web development.
+email pedrofm197214@gmail.com
