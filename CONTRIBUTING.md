@@ -1,3 +1,11 @@
+Eu PEDRO FERREIRA MORAIS46404465353 
+
+tenho essa preocupação na minha carteira e espero ter ajudado sem invasão; 
+{
+    "name": "RATE_LIMIT_REACHED",
+    "message": "Too many requests. Blocked due to rate limiting.",
+    "debugId": "07b36a1a11a08"
+} POSSO CONTAR COM AJUDAR OU ESCLARECIMENTO DE ALGUM PROFISSIONAL DO GITHUB.COM ?
 ## Contributing
 
 Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
